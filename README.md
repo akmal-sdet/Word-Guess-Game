@@ -32,8 +32,8 @@ Even though this information can be found inside the project on machine-readable
 format like in a .json file, it's good to include a summary of most useful
 links to humans using your project. You can include links like:
 
-- Game homepage: http://akmal360.github.io/Word-Guess-Game/
-- Repository: https://github.com/akmal360/Word-Guess-Game
+- Game homepage: http://akmal-sdet.github.io/Word-Guess-Game/
+- Repository: https://github.com/akmal-sdet/Word-Guess-Game
 
 ## Licensing
 
